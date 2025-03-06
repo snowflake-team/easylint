@@ -1,0 +1,11 @@
+# deps
+node_modules
+
+# output
+dist
+
+# idea
+.idea
+
+# OS
+.DS_Store
